@@ -1,3 +1,5 @@
+from flask import Flask
+app = Flask(__name__)
 import pandas as pd
 #import numpy as np
 #import matplotlib.pyplot as plt
